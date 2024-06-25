@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://celativers.github.io/sitemap
+Sitemap: https://celativers.github.io/app/sitemap
+Sitemap: https://celativers.github.io/assets/sitemap
+Sitemap: https://celativers.github.io/css/sitemap
+Sitemap: https://celativers.github.io/includes/sitemap
+Sitemap: https://celativers.github.io/item/sitemap
+Sitemap: https://celativers.github.io/src/sitemap
